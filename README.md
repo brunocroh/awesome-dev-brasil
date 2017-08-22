@@ -8,6 +8,10 @@ Podcasts
 https://codecasts.com.br/podcast <br/>
 Podcast sobre desenvolvimento web com @vinicius73, @vedovelli e @hernandev
 
+### DatabaseCast
+https://imasters.com.br/perfil/databasecast/ <br/>
+Podcast sobre banco de dados com @pichiliani e @wcrivelini
+
 ### DEVNAESTRADA
 http://devnaestrada.com.br/ <br/>
 Podcast sobre desenvolvimento com muitas intrevistas e o sonho de um programa sobre inferno.js @femontanha, @raymonsanches e @eduardojmatos
@@ -18,7 +22,11 @@ Podcast que fala de tudo relacionado com a área de TI, com @carlosbrando e @raf
 
 ### Hipsters ponto tech
 http://hipsters.tech/ <br/>
-Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia.
+Pessoal Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia.
+
+### Lambda3 Podcast
+https://www.lambda3.com.br/lambda3-podcast/ <br/>
+
 
 ### NerdTech
 https://jovemnerd.com.br/playlist/nerdtech/ <br/>
